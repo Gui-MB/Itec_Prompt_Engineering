@@ -1,0 +1,21 @@
+# AI Model Comparison Results
+
+The following are the results I observed from tests with my prompt:
+
+- Manus AI: Extremely good use of the rules and logic with the use of a perfect formatting and feedback.
+
+- ChatGPT (GPT-5): Extremely good use of the rules and logic with the use of a perfect formatting and feedback.
+
+- Claude Haiku 4.5: Extremely good use of the rules and logic with the use of a good formatting and feedback. Misses the desired bold on section titles.
+
+- Claude Sonnet 4.5: Extremely good use of the rules and logic with the use of a good formatting and feedback. Misses the desired bold on section titles.
+
+- DeepSeek: Good use of the rules and logic with the use of a good formatting and feedback. Misses the desired bold on section titles.
+
+- DeepSeek (DeepThink mode ON): Extremely good use of the rules and logic with the use of a good formatting and feedback. Misses the desired bold on section titles and is extremely slow.
+
+- Gemini 2.5 Flash: Extremely good use of the rules, correct feedback and good logic. Poor handling of the separation between section titles.
+
+- Gemini 2.5 Pro: Good use of the rules, correct feedback and good logic. The corrected text is being returned in full bold and with bad handling of separation between paragraphs.
+
+- Meta AI: Missing corrections and bad feedback.
